@@ -6,6 +6,6 @@ Metadev NFT is a team of awesome people who ❤️️ NFT and focusing on buildi
 
 We would very glad to get in touch with you, and here are useful links to find us in the net:
 
-- 🌏 Website: [MetaDev.wtf](https://metadev.wtf)
+- 🌏 Website: [Metadev.wtf](https://metadev.wtf)
 - 📧 Email: [metadev.nft@gmail.com](mailto:metadev.nft@gmail.com)
 - 🐦 Twitter: [@MetadevNFT](https://twitter.com/MetadevNFT)
