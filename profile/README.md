@@ -9,5 +9,5 @@ Metadev WTF is a team of awesome people who ❤️️ building products using Bl
 We would very glad to get in touch with you, and here are useful links to find us in the net:
 
 - 🌏 Website: [Metadev.wtf](https://metadev.wtf)
-- 📧 Email: [metadev.nft@gmail.com](mailto:metadev.nft@gmail.com)
+- 📧 Email: [metadev.wtf@gmail.com](mailto:metadev.wtf@gmail.com)
 - 🐦 Twitter: [@MetadevWTF](https://twitter.com/MetadevWTF)
