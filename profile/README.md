@@ -2,7 +2,7 @@
 
 ![Metadev](https://raw.githubusercontent.com/Metadev-NFT/.github/main/profile/m4.png)
 
-Metadev WTF is a team of awesome people who ❤️️ building products using Blockchain technology.
+Metadev WTF is a team of awesome people who ❤️️ building Web3 products.
 
 ## 🤝 Connect with us!
 
